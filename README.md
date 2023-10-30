@@ -2,6 +2,13 @@
 
 Bem-vindo ao projeto AluraBooks! Este é um projeto responsivo desenvolvido por Daniela Rocca. Aqui você encontrará informações sobre as ferramentas utilizadas, o link para acessar o projeto e o perfil do desenvolvedor.
 
+Desktop
+![image](https://github.com/daniirocca/alurabooks/assets/117545155/f5f098cd-9909-4129-be8e-ea6cd982bba1)
+
+Mobile
+![image](https://github.com/daniirocca/alurabooks/assets/117545155/f2ccf9a8-46de-4891-8f74-93b32c2235ee)
+
+
 ## Ferramentas Utilizadas
 
 Este projeto foi construído utilizando as seguintes tecnologias e ferramentas:
